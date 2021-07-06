@@ -1,4 +1,5 @@
 # Covid-Donation
+THIS PROJECT IS A PART OF WEB DEVELOPMENT INTERNSHIP THAT I DID IN SPARKS FROUNDATION
 This website contains all the information related to Covid-19. You can also donate to the PM care fund ( Test Mode) using the integrated Razorpay link.
 ![start](https://user-images.githubusercontent.com/58468853/124512840-fb22fe80-ddf6-11eb-8fa3-b512972baaa8.PNG)
 ![payment](https://user-images.githubusercontent.com/58468853/124512843-fcecc200-ddf6-11eb-897e-a3a2d40709cb.PNG)
