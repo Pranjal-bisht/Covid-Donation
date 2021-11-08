@@ -1,10 +1,13 @@
 # Covid-Donation
-**CHECKOUT THE WEBSITE HERE BY CLICKING THE LINK** :                                                                                                                  https://covidtracker12345.netlify.app                                                                                                           **(THIS PROJECT IS A PART OF WEB DEVELOPMENT INTERNSHIP THAT I DID IN SPARKS FROUNDATION)**
-* This website contains all the information related to Covid-19. You can also donate to the PM care fund ( Test Mode) using the integrated Razorpay link.
-* Used Data from Covid19 API using fetch API in javascript to parse JSON and display total covid cases.
-* Used Postman to fire Orders API for a dummy payment through a user. 
-* Website is also deployed on Netlify.
-* **SAMPLES FROM WEBSITE**
+
+## [LIVE](https://covidtracker12345.netlify.app)           
+
+* This website contains all the information related to Covid-19. You can also donate to the PM care fund ( Test Mode) using the integrated Razorpay payment gateway.
+* Used Data from Covid19 API using fetch API in javascript to parse JSON and display total covid cases. Integrated a Razorpay payment API for transaction and donation for PM care fund.
+* Used Postman to test Payment API and orders.
+* Deployed the wensite on Netlify web servers.
+
+## SAMPLES FROM WEBSITE
 
 ![start](https://user-images.githubusercontent.com/58468853/124512840-fb22fe80-ddf6-11eb-8fa3-b512972baaa8.PNG)
 ![payment](https://user-images.githubusercontent.com/58468853/124512843-fcecc200-ddf6-11eb-897e-a3a2d40709cb.PNG)
